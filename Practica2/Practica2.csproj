@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Aplicacion\LinearRegression\Command\" />
+    <Folder Include="Aplicacion\LinearRegression\Command\DifferenceCommand\" />
   </ItemGroup>
 
 </Project>
